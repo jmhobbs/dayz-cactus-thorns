@@ -1,0 +1,18 @@
+ImageWidgetClass CactusConsequencesThorns {
+ visible 0
+ color 0.863 0.863 0.863 1
+ position 0.8 0
+ size 35 35
+ halign right_ref
+ valign bottom_ref
+ hexactpos 0
+ vexactpos 1
+ hexactsize 1
+ vexactsize 1
+ fixaspect fixwidth
+ mode blend
+ "src alpha" 1
+ "clamp mode" clamp
+ filter 1
+ nocache 0
+}
