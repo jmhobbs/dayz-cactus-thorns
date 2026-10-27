@@ -1,3 +1,5 @@
+![Dayz Cactus Thorns](.github/readme/cactus-thorns.jpg)
+
 # DayZ Cactus Thorns
 
 Running through the prickly-pear cacti added with Badlands/Nasdara (`BushHard_b_OpuntiaFicusIndica_*`) now has consequences.
